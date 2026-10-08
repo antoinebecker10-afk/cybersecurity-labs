@@ -2,7 +2,9 @@
 
 Portfolio de laboratoires de cybersécurité : sécurité web, réseau, Active Directory, détection et reporting.
 
-Formation IFAPME Pentester (2026–2028) ; préparation CPTS et CDSA.
+**Formation en cours : IFAPME — Cybersécurité, Pentester, au campus E6K de Charleroi (1 septembre 2026 – 15 juin 2028).** La formation est orientée cybersécurité offensive : simulation d'attaques autorisées sur systèmes, réseaux, applications et sites web afin d'identifier les vulnérabilités et de proposer des remédiations. **Pratique en entreprise obligatoire dans le cadre de l'alternance.** Préparation personnelle des certifications CPTS et CDSA (non obtenues à ce jour).
+
+Programme officiel : https://www.e6k.be/formations/ifapme-cybersecurite-pentester
 
 Tous les exercices sont réalisés uniquement sur des systèmes personnels, des laboratoires ou des cibles explicitement autorisées. Les études publiées sont anonymisées et ne contiennent aucun secret ni donnée client.
 

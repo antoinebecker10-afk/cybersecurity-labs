@@ -17,6 +17,10 @@ Tous les exercices sont réalisés uniquement sur des systèmes personnels, des 
 
 Ces études de cas présentent les responsabilités et les considérations de sécurité, sans revendiquer un audit indépendant ni exposer de données sensibles.
 
+## Hack The Box Academy
+
+[Six modules en préparation — suivi et notes de laboratoire](htb-academy/README.md). Statuts initiaux : **Planned** ; aucun module n'est présenté comme terminé.
+
 ## Parcours
 
 - [Méthodologie](methodology/README.md)
